@@ -1,0 +1,16 @@
+.cat-facts-container {
+  background-color: #ffecb3; 
+  font-family: 'Comic Sans MS', cursive; 
+  margin: 20px;
+  padding: 20px;
+}
+
+.cat-facts-list {
+  list-style: disc;
+  margin: 20px;
+  padding: 0;
+}
+
+.cat-facts-list li {
+  margin-bottom: 10px;
+}
